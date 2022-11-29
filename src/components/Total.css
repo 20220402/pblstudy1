@@ -1,0 +1,203 @@
+.nav{
+    position: fixed;
+    background-color: green;
+    height: 100px;
+    width: 800px;
+    top: 100px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-title{
+    position: fixed;
+    left: 30px;
+    top: 15px;
+    color: white;
+}
+
+.login_btn{
+    font-weight: bold;
+    position: fixed;
+    right: 15px;
+    top: 40px;
+    color: white;
+}
+
+.login-form{
+    width: 500px;
+    height: 300px;
+    position: fixed;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.input-id{
+    position: absolute;
+    top: 46%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.input-pw{
+    position: absolute;
+    top: 54%;
+    left: 49%;
+    transform: translate(-50%,-50%);
+}
+
+.login-btn{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.post-list{
+    position: fixed;
+    top: 150px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.detail-post{
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%);
+    border: 1px solid gainsboro;
+    border-radius: 5px;
+    width: 800px;
+    height: 500px;
+}
+
+.total-write{
+    position: fixed;
+    top: 200px;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.title-input{
+    width: 800px;
+    height: 30px;
+}
+
+.table{
+    border-spacing: 0;
+    width: 800px;
+}
+
+.first-th{
+    line-height: 3rem;
+    border-bottom: 1px solid #aaa;
+    font-size: 1.2rem;
+    width: 60%;
+}
+
+.second-th{
+    line-height: 3rem;
+    border-bottom: 1px solid #aaa;
+    font-size: 1.2rem;
+    width: 20%;
+}
+
+.third-th{
+    line-height: 3rem;
+    border-bottom: 1px solid #aaa;
+    font-size: 1.2rem;
+    width: 10%;
+}
+
+.fourth-th{
+    line-height: 3rem;
+    border-bottom: 1px solid #aaa;
+    font-size: 1.2rem;
+    width: 10%;
+}
+
+.first-td{
+    line-height: 2rem;
+    text-align: center;
+    border-top: 1px solid #aaa;
+    width: 60%;
+}
+
+.second-td{
+    line-height: 2rem;
+    text-align: center;
+    border-top: 1px solid #aaa;
+    width: 20%;
+}
+
+.third-td{
+    line-height: 2rem;
+    text-align: center;
+    border-top: 1px solid #aaa;
+    width: 10%;
+}
+
+.fourth-td{
+    line-height: 2rem;
+    text-align: center;
+    border-top: 1px solid #aaa;
+    width: 10%;
+}
+
+.in{
+    text-align: left;
+    text-indent: 20px;
+}
+
+.detail-btn1{
+	background:linear-gradient(to bottom, green 5%, green 100%);
+	background-color:green;
+	border-radius:5px;
+	border:1px solid green;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:7px 25px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, green 5%, #44c767 100%);
+	background-color:green;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.detail-btn2{
+	background:linear-gradient(to bottom, green 5%, green 100%);
+	background-color:green;
+	border-radius:5px;
+	border:1px solid green;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:7px 25px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, green 5%, green 100%);
+	background-color:green;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.detail-btn{
+    position: fixed;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%);
+}
