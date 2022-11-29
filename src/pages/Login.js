@@ -6,7 +6,7 @@ const Login = ({setAuth}) => {
     const navigate = useNavigate()
     const login = (e) => {
         e.preventDefault();
-        console.log('로그인테스트');
+        console.log('로그인테스트1');
         setAuth(true)
         navigate('/')
     }
